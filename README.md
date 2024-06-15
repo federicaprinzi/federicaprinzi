@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Federica</h1>
-<h3 align="center">I am 24 years old, living in Palermo (Italy), and am currently a FullStack student in Develhope!</h3>
+<h1 align="center">Hi, I'm Federica 🦋</h1>
+<p align="center">I am 24 years old, living in Palermo (Italy) 🐚, and am currently a FullStack student in Develhope! 🛸 </p>
 
 - 🌱 I’m currently studying **Javascript, HTML5, CSS3, React, Typecript, Tailwind CSS, Node**
 
