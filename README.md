@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Federica 🦋</h1>
-<p align="left">I am 24 years old, living in Palermo (Italy) 🐚, and am currently a FullStack student in Develhope! 🛸 </p>
+<p align="left">I am 25 years old, living in Palermo (Italy) 🐚, and I'm a Front End Developer!🛸 </p>
 
-- 🌱 I’m currently studying **Javascript, HTML5, CSS3, React, Typecript, Tailwind CSS, Node**
+- 🌱 I’m studied **Javascript, HTML5, CSS3, React, Typecript, Tailwind CSS, Node**
 
 - 📫 How to reach me **fedecprinzi@gmail.com**
 
